@@ -27,7 +27,8 @@ function StudentCard(props) {
           textAlign: "center",
           margin: "20px auto",
           backgroundColor: "#f9f9f9",
-          boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)"
+          boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+          color: `#333`
         }}>
           <img
             src={imageUrl}
